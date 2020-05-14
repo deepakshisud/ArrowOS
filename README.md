@@ -11,28 +11,31 @@ Deepakshi Sood :grin:
 **Features:**
 
 * Basic Commands
- * Shutdown
- * Clear
- * Reboot
- * Lock System
- * Help
- * Date & Time
+  * Shutdown
+  * Clear
+  * Reboot
+  * Lock System
+  * Help
+  * Date & Time
  
+
 * File Functionalities
- * Create Directory
- * List all Directories and Files
- * Delete Directory
- * Open File
- * Copy File
- * Concatenate Files
- * Search Files
- * Recycle Bin
+  * Create Directory
+  * List all Directories and Files
+  * Delete Directory
+  * Open File
+  * Copy File
+  * Concatenate Files
+  * Search Files
+  * Recycle Bin
+ 
  
 * Calculator
 
+
 * Software Applications
- * Text Editor
- * Snake Game
+  * Text Editor
+  * Snake Game
  
 ----------------------------------------------------------------------------
 
