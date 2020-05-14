@@ -3,7 +3,9 @@ A miniOS designed on Visual Studios with Cosmos
 
 ![Front](https://github.com/deepakshisud/ArrowOS/blob/master/Images/StartPage.png)
 
-**Author**
+*This was created as a part of J component for one of my courses*
+**Author:**
+
 Deepakshi Sood :grin:
 
 ----------------------------------------------------------------------------
@@ -38,4 +40,7 @@ Deepakshi Sood :grin:
   * Snake Game
  
 ----------------------------------------------------------------------------
+# Acknowledgements
 
+* bartashevich(Snake Game)
+* CasteSoftworks
