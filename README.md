@@ -4,6 +4,8 @@ A miniOS designed on Visual Studios with Cosmos
 ![Front](https://github.com/deepakshisud/ArrowOS/blob/master/Images/StartPage.png)
 
 *This was created as a part of J component for one of my courses*
+
+
 **Author:**
 
 Deepakshi Sood :grin:
