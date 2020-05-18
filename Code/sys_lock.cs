@@ -6,7 +6,7 @@ namespace FirstOS
 	{
         public static void lockpass(string passcode)
         {
-            string version = "2019-04-03";
+            string version = "2020-04-12";
             bool unlocked = false;
             while (!unlocked)
             {
